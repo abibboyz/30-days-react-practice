@@ -4,11 +4,11 @@ export const PracticeText = () => {
   const title = 'Getting Started React'
   const subtitle = 'JavaScript Library'
   const author = {
-    firstName: 'Asabeneh',
-    lastName: 'Yetayeh',
+    firstName: 'Abinash',
+    lastName: 'Khatiwada',
   }
-  const date = 'Oct 2, 2020'
-  const copyRight = 'Copyright 2020'
+  const date = 'Jan 13, 2023'
+  const copyRight = 'Copyright 2023'
   const footer = (
     <footer><div className='footer-wrapper'><p>{copyRight}</p></div></footer>
   )
