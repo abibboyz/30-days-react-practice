@@ -1,3 +1,5 @@
+import './practicetest.styles.css';
+
 export const PracticeText = () => {
 
   const welcome = 'Welcome to 30 Days Of React'
@@ -15,7 +17,7 @@ export const PracticeText = () => {
 
 
   return (
-    <div>
+    <div className='description'>
       <h1>{welcome}</h1>
       <h2>{title}</h2>
       <h3>{subtitle}</h3>
